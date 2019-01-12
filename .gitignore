@@ -43,8 +43,5 @@ testem.log
 .DS_Store
 Thumbs.db
 
-<<<<<<< HEAD
 server/config/
-=======
 /server/config/dev.js
->>>>>>> f9fee83dcdc4a7c0b1bfe75a5b87e9252142dd4b
