@@ -15,7 +15,7 @@ const app = express();
 
 app.use('/api/v1/rentals', rentalRoutes);
 
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 3000;
 
 app.listen(PORT, function() {
     console.log(`started listening on port ${PORT}`);
